@@ -11,3 +11,9 @@
 ```
 console.log("작성중입니다.")
 ```
+- 코드 인용문 옆에 언어를 적으면 그에 맞게 하이라이팅 된다. 예)` javascript
+```JavaScript
+for(let i = 0, i < 5, i++) {
+  cosole.log(i)
+}
+```
