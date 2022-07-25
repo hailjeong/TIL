@@ -6,4 +6,5 @@
 - [React](https://github.com/hailjeong/TIL/tree/main/React)
   - [React란 무엇인가](https://github.com/hailjeong/TIL/blob/main/React/React.md)
   - [JSX](https://github.com/hailjeong/TIL/blob/main/React/JSX.md)
+  - [Component](https://github.com/hailjeong/TIL/blob/main/React/Component.md)
   
