@@ -9,5 +9,5 @@
   - [Component(컴포넌트)](https://github.com/hailjeong/TIL/blob/main/React/Component.md)
   - [State](https://github.com/hailjeong/TIL/blob/main/React/%08State.md)
   - [Event Handling(이벤트 핸들링)](https://github.com/hailjeong/TIL/blob/main/React/EventHandling.md)
-  - [ref: Dom에 이름 달기(class형 컴포넌트 주](https://github.com/hailjeong/TIL/blob/main/React/ref:%20Dom.md)
+  - [ref: Dom에 이름 달기(class형 컴포넌트 주)](https://github.com/hailjeong/TIL/blob/main/React/ref:%20Dom.md)
   
