@@ -215,8 +215,7 @@ export default EvetnPractice;
 ## 함수형 컴포넌트 
 - 위에 코드에서는 함수 두개를 따로 만들어주었고, 아래의 코드는 e.target.name을 활용했다. 
 - input값들이 많아지면 아래 코드처럼 form 객체를 사용해주는것도 좋을 것 같다. 
-```j
-avascript
+```javascript
 import { useState } from "react";
 
 const EventPracticeFunc = () => {
