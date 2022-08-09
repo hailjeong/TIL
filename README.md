@@ -15,4 +15,5 @@
   - [Hooks](https://github.com/hailjeong/TIL/blob/main/React/09.Hooks.md)
   - [Styling](https://github.com/hailjeong/TIL/blob/main/React/10.Styling.md)
   - [첫번째 미니프로젝트 일정관리](https://github.com/hailjeong/TIL/blob/main/React/11.First%20Project%20Todo-App.md)
+  - [Refactoring(리팩토링)](https://github.com/hailjeong/TIL/blob/main/React/12.Refactoring.md)
   
