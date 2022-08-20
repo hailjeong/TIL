@@ -22,3 +22,4 @@
 - [두 번째 미니프로젝트 뉴스 불러오기](https://github.com/hailjeong/TIL/blob/main/React/16.news-viewer.md)
 - [Context API 전역관리](https://github.com/hailjeong/TIL/blob/main/React/17.Context%20API.md)
 - [Redux 전역관리](https://github.com/hailjeong/TIL/blob/main/React/18.Redux.md)
+- [Redux 활용 프로젝트](https://github.com/hailjeong/TIL/blob/main/React/19.Redux%ED%99%9C%EC%9A%A9.md)
