@@ -24,3 +24,4 @@
 - [Redux 전역관리](https://github.com/hailjeong/TIL/blob/main/React/18.Redux.md)
 - [Redux 활용 프로젝트](https://github.com/hailjeong/TIL/blob/main/React/19.Redux%ED%99%9C%EC%9A%A9.md)
 - [Redux Middleware](https://github.com/hailjeong/TIL/blob/main/React/20.Redux-Middleware.md)
+- [Splitting 코드 스플리팅](https://github.com/hailjeong/TIL/blob/main/React/21.Splitting.md)
