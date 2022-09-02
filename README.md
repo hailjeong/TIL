@@ -25,3 +25,4 @@
 - [Redux 활용 프로젝트](https://github.com/hailjeong/TIL/blob/main/React/19.Redux%ED%99%9C%EC%9A%A9.md)
 - [Redux Middleware](https://github.com/hailjeong/TIL/blob/main/React/20.Redux-Middleware.md)
 - [Splitting 코드 스플리팅](https://github.com/hailjeong/TIL/blob/main/React/21.Splitting.md)
+- [SSR 서버 사이드 렌더링](https://github.com/hailjeong/TIL/blob/main/React/22.SSR(%EC%84%9C%EB%B2%84%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81).md)
