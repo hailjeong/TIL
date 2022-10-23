@@ -34,6 +34,8 @@
 - [화살표함수](https://github.com/hailjeong/TIL/blob/main/JavaScript/03.ArrowFunction.md)
 - [IIFE 즉시실행함수](https://github.com/hailjeong/TIL/blob/main/JavaScript/04.IIFE.md)
 - [호이스팅](https://github.com/hailjeong/TIL/blob/main/JavaScript/05.Hoisting.md)
+- [타이머 함수](https://github.com/hailjeong/TIL/blob/main/JavaScript/06.TimerFunction.md)
+- [콜백함수](https://github.com/hailjeong/TIL/blob/main/JavaScript/07.CallbackFunction.md)
 
 
 
