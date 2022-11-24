@@ -11,9 +11,9 @@
 
 # <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> [TypeScript](https://github.com/hailjeong/TIL/tree/main/TypeScript) 
 
-# <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logoColor=white"/> [Sass](https://github.com/hailjeong/TIL/tree/main/Sass) 
+# <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> [Sass](https://github.com/hailjeong/TIL/tree/main/Sass) 
 
-# <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logoColor=white" /> [BootStrap](https://github.com/hailjeong/TIL/tree/main/BootStrap)
+# <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" /> [BootStrap](https://github.com/hailjeong/TIL/tree/main/BootStrap)
 
 
 
